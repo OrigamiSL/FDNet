@@ -24,7 +24,7 @@ How focal input sequence decomposition works with forecasting networks is depict
 </p>
 
 <p align="center">
-<img src="https://github.com/OrigamiSL/FDNet/blob/main/img/Architecture.png" height = "300" alt="" align=center />
+<img src=".\img\Architecture.png" height = "300" alt="" align=center />
 <br><br>
 <b>Figure 3.</b> An overview of the architecture of FDNet. It decomposes feature extraction processes of different input elements and different variates. Its main components are N decomposed feature extractor layers (blue trapezoid), each containing four 2D convolutional layers. Weight Normalization, Gelu activation and res-connection are combined with each 2D convolutional layer.
 </p>
