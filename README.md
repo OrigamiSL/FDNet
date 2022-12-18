@@ -32,10 +32,11 @@ How focal input sequence decomposition works with forecasting networks is depict
 ## Requirements
 
 - Python 3.8
-- matplotlib == 3.1.1
-- numpy == 1.19.4
-- pandas == 0.25.1
-- scikit_learn == 0.21.3
+- matplotlib == 3.3.4
+- numpy == 1.20.1
+- pandas == 1.2.4
+- scikit_learn == 0.24.1
+- scipy == 1.9.0
 - torch == 1.11.0
 
 Dependencies can be installed using the following command:
